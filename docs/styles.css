@@ -1,0 +1,9 @@
+/* css styles */
+
+.hanging-indent {
+  text-indent: -1em; /* Adjust the negative indent to your preference */
+}
+
+.center {
+    text-align: center;
+}

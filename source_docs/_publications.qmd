@@ -1,0 +1,9 @@
+
+
+::: hanging-indent
+Breuch, L.-A., Ghimire, A., Bolander, K., Deets, S., Obright, A., & Remcheck, J. (n.d.). Reconsidering Writing Pedagogy in the Era of ChatGPT: Results of a Usability Study of ChatGPT in Academic Writing, forthcoming
+:::
+
+::: hanging-indent
+Deets, S., Baulch, C., Obright, A., & Card, D. J. (n.d.). Content Analysis, Construct Validity, and Artificial Intelligence: Implications for TPC and Graduate Programming. Journal of Business and Technical Communication, forthcoming
+:::

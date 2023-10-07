@@ -1,0 +1,37 @@
+---
+title: "tc2_v4"
+---
+
+---
+title: "Welcome"
+---
+:::{.content-hidden when-format="pdf"}
+## About Alison
+
+![Alison Obright MA](headshot.jpeg){width="20%" fig-alt="Alison Obright headshot." fig-align="left" }
+
+{{< include source_docs/_blurb.qmd >}}
+
+:::{.content-hidden when-format="pptx"}
+The diagram below is a summary of my academic timeline. I arrived at the UMN RSTC program with a background in rhetoric/writing and biology. During my Master's experience I explored how scientists communicate on TikTok which sharpened my interest in how technology is a mediator for communication that fundamentally changes the shape and influence of our words.
+:::
+
+```{mermaid}
+%%| label: alison-interests
+%%| fig-cap: "Alison's academic interest timeline."
+flowchart LR
+  A[Writing Centers and Composition] --> C(RSTC)
+  B[Biology: Mycology, Ecology, EvoDevo]--> C(RSTC)
+  C --> D(Social Media and Science Comunication)
+  D --> E[Chat GPT and pedagogies of technology]
+  D --> F[Computation and Tech Comm]
+  D -->G[Rhetoric of Science and STS]
+```
+
+## Some of Alison's work
+
+{{< include source_docs/_publications.qmd >}} {{< include source_docs/_presentations.qmd >}}
+
+
+:::
+

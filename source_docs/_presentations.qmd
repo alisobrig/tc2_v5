@@ -1,0 +1,13 @@
+
+
+::: hanging-indent
+Card, D., Baulch, C., Deets, S., and Obright, A. (2023). AI, NLP, ML, oh my! A scoping review of computational methods in technical communication and rhetoric. SIGDOC. Orlando, FL.
+:::
+
+::: hanging-indent
+Obright, A. and Baulch, C. (2023). Can I ask an honest question? - disruptive narratives of decision-making around prenatal testing. Association for the Rhetoric of Science, Technology, and Medicine . National Harbor, MD.
+:::
+
+::: hanging-indent
+Baulch, C. and Obright, A. (2023). Title pending. National Communication Association. National Harbor, MD.
+:::
